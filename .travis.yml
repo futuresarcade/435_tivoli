@@ -3,7 +3,7 @@ install:
 - go get -v github.com/spf13/hugo
 script:
 - hugo version
-- make build
+- make deploy
 branches:
   only:
   - master
