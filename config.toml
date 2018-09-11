@@ -1,0 +1,48 @@
+title = "435 Tivoli Coral Gables FL 33143"
+baseURL = "http://example.org/"
+tags = ["Coral Gables", "Modernist","Real Estate","Luxury living"]
+languageCode = "en-US"
+config = "config.toml"
+theme = "osprey"
+canonifyURLS = true
+googleAnalytics = ""
+disableKinds = ["taxonomy", "taxonomyTerm"] # This theme does not currently use "tag" and "category" taxonomies
+
+[Params]
+    tagline = ""
+    author = "futuresarcade"
+    description = "Contemporary Modernist Home in  Coral Gables 5 beedroom 6 1/2 baths redesigned and upgraded to the maximum current standards"
+    logoBig = ""
+    logoSmall = ""
+    favicon = "favicon.ico"
+    opengraphImage = ""
+    twitter = "yourhomemiami"
+    linkedin = "dianaiordonez"
+    github = ""
+    facebook = "dianaiordonezsanchez"
+    email = "dianaiordonez@gmail.com"
+    googleTagManger = ""
+    highlightJS = true
+    copyright = true
+    credit = true
+    customCSS = true
+    cacheBustCSS = false
+    cacheBustJS = false
+    ajaxFormspree = true
+
+# [[menu.main]]
+#    name = "About"
+#    url  = "/#about"
+#    weight = 1
+# [[menu.main]]
+  #  name = "Work"
+  #  url  = "/#work"
+  #  weight = 2
+# [[menu.main]]
+#  name = "Blog"
+#    url  = "/#blog"
+#    weight = 3
+[[menu.main]]
+    name = "Contact"
+    url  = "/#contact"
+    weight = 4
