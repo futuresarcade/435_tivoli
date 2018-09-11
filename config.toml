@@ -1,5 +1,5 @@
 title = "435 Tivoli Coral Gables FL 33143"
-baseURL = "http://example.org/"
+baseURL = "https://www.435tivolicoralgables.com"
 tags = ["Coral Gables", "Modernist","Real Estate","Luxury living"]
 languageCode = "en-US"
 config = "config.toml"
