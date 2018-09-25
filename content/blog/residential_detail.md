@@ -36,7 +36,7 @@ Coral Gables first contemporary home approved in 1984.  This spectacular structu
 |* Reflecting pond with water bubblers and light features, controlled throughout wireless automation|* 3 TRANE AC units installed in 2014
 |* New roof completed in June 2018 by AJ Palmer roofing using BOREAL fiberglass re-enforced concrete roof tiles|* BISAZZA Italian Glass tiles in bathrooms
 |* PGT storm windows and doors with low energy-saving reflective glass|* Quiet, no traffic Oak canvassed street
-|* Ideal location, 10 Minutes to either Downtown South Miami, Coral Gables or Coconut Grove, 25 Minutes to airport
+|* Ideal location, close to Downtown South Miami, Coral Gables Coconut Grove and airport
 
 ### VIDEO
 
