@@ -24,7 +24,7 @@ Coral Gables first contemporary home approved in 1984.  This spectacular structu
 
 |              |                |
 |--------------|----------------|
-|* Duravit German sinks and Toilets throughout the 7 bathrooms|* Pedini Italian design kitchen, central work space island &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+|* Duravit German sinks and Toilets throughout the 7 bathrooms|* Pedini Italian design kitchen, central work space island 
 |* Full Audio system with 4 zones both outdoor and ground floor by NUVO|* TV's with surround sound speakers
 |* Home is fully wired with CAT 6 fiber optic cables into Media & Security room|* 6 security camaras with DVR storage covering all access to home
 |* Engineered stone commercial-grade tile by IBERIA on floors & bathroom walls|* Outdoor landscape design done by Justin Velez, of UrbanRobot associates
